@@ -1,0 +1,30 @@
+D:\Ta\Tuan 2.1\Tuan 2.1\bin\Debug\Tuan 2.1.exe
+D:\Ta\Tuan 2.1\Tuan 2.1\bin\Debug\Tuan 2.1.pdb
+D:\Ta\Tuan 2.1\Tuan 2.1\obj\x86\Debug\Tuan_2._1.Form1.resources
+D:\Ta\Tuan 2.1\Tuan 2.1\obj\x86\Debug\Tuan_2._1.Properties.Resources.resources
+D:\Ta\Tuan 2.1\Tuan 2.1\obj\x86\Debug\Tuan 2.1.csproj.GenerateResource.Cache
+D:\Ta\Tuan 2.1\Tuan 2.1\obj\x86\Debug\Tuan 2.1.exe
+D:\Ta\Tuan 2.1\Tuan 2.1\obj\x86\Debug\Tuan 2.1.pdb
+D:\Tuan-2-master\Tuan 2.1\Tuan 2.1\obj\x86\Debug\Tuan 2.1.exe
+D:\Tuan-2-master\Tuan 2.1\Tuan 2.1\obj\x86\Debug\Tuan 2.1.pdb
+D:\Tuan-2-master\Tuan 2.1\Tuan 2.1\bin\Debug\Tuan 2.1.exe
+D:\Tuan-2-master\Tuan 2.1\Tuan 2.1\bin\Debug\Tuan 2.1.pdb
+D:\Tuan-2-master\Tuan 2.1\Tuan 2.1\obj\x86\Debug\Tuan_2._1.Form1.resources
+D:\Tuan-2-master\Tuan 2.1\Tuan 2.1\obj\x86\Debug\Tuan_2._1.Properties.Resources.resources
+D:\Tuan-2-master\Tuan 2.1\Tuan 2.1\obj\x86\Debug\Tuan 2.1.csproj.GenerateResource.Cache
+D:\Downloads\tuan 6\Tuan-5-master\Tuan-2-master\Tuan 2.1\Tuan 2.1\obj\x86\Debug\Tuan 2.1.exe
+D:\Downloads\tuan 6\Tuan-5-master\Tuan-2-master\Tuan 2.1\Tuan 2.1\obj\x86\Debug\Tuan 2.1.pdb
+D:\Downloads\tuan 6\Tuan-5-master\Tuan-2-master\Tuan 2.1\Tuan 2.1\bin\Debug\Tuan 2.1.exe
+D:\Downloads\tuan 6\Tuan-5-master\Tuan-2-master\Tuan 2.1\Tuan 2.1\bin\Debug\Tuan 2.1.pdb
+D:\Downloads\tuan 6\Tuan-5-master\Tuan-2-master\Tuan 2.1\Tuan 2.1\obj\x86\Debug\Tuan_2._1.Form1.resources
+D:\Downloads\tuan 6\Tuan-5-master\Tuan-2-master\Tuan 2.1\Tuan 2.1\obj\x86\Debug\Tuan_2._1.Properties.Resources.resources
+D:\Downloads\tuan 6\Tuan-5-master\Tuan-2-master\Tuan 2.1\Tuan 2.1\obj\x86\Debug\Tuan 2.1.csproj.GenerateResource.Cache
+D:\Lap trinh mang\full chat\Tuan 2.1\bin\Debug\Tuan 2.1.exe
+D:\Lap trinh mang\full chat\Tuan 2.1\bin\Debug\Tuan 2.1.pdb
+D:\Lap trinh mang\full chat\Tuan 2.1\obj\x86\Debug\Tuan 2.1.csprojResolveAssemblyReference.cache
+D:\Lap trinh mang\full chat\Tuan 2.1\obj\x86\Debug\Tuan_2._1.Form1.resources
+D:\Lap trinh mang\full chat\Tuan 2.1\obj\x86\Debug\Tuan_2._1.Properties.Resources.resources
+D:\Lap trinh mang\full chat\Tuan 2.1\obj\x86\Debug\Tuan 2.1.csproj.GenerateResource.cache
+D:\Lap trinh mang\full chat\Tuan 2.1\obj\x86\Debug\Tuan 2.1.csproj.CoreCompileInputs.cache
+D:\Lap trinh mang\full chat\Tuan 2.1\obj\x86\Debug\Tuan 2.1.exe
+D:\Lap trinh mang\full chat\Tuan 2.1\obj\x86\Debug\Tuan 2.1.pdb

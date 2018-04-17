@@ -1,0 +1,9 @@
+D:\Lap trinh mang\full chat\Tuan 2.1\bin\Debug\Tuan 2.1.exe
+D:\Lap trinh mang\full chat\Tuan 2.1\bin\Debug\Tuan 2.1.pdb
+D:\Lap trinh mang\full chat\Tuan 2.1\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Lap trinh mang\full chat\Tuan 2.1\obj\x86\Debug\Tuan_2._1.Form1.resources
+D:\Lap trinh mang\full chat\Tuan 2.1\obj\x86\Debug\Tuan_2._1.Properties.Resources.resources
+D:\Lap trinh mang\full chat\Tuan 2.1\obj\x86\Debug\Server.csproj.GenerateResource.cache
+D:\Lap trinh mang\full chat\Tuan 2.1\obj\x86\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Lap trinh mang\full chat\Tuan 2.1\obj\x86\Debug\Tuan 2.1.exe
+D:\Lap trinh mang\full chat\Tuan 2.1\obj\x86\Debug\Tuan 2.1.pdb
